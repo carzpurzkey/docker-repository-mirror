@@ -1,0 +1,2 @@
+# https://container-registry.oracle.com/ords/f?p=113:4:106101802390778:::4:P4_REPOSITORY,AI_REPOSITORY,AI_REPOSITORY_NAME,P4_REPOSITORY_NAME,P4_EULA_ID,P4_BUSINESS_AREA_ID:9,9,Oracle%20Database%20Enterprise%20Edition,Oracle%20Database%20Enterprise%20Edition,1,0&cs=3SENtAiXUasSWLCHbii-nzffyI191B2_-4IZ1eqDTbS9jHg5PpUQzBBaUl9yLT7aMAd3SskcwyaFwk7Z7aTqAEw
+FROM container-registry.oracle.com/database/enterprise:12.2.0.1
